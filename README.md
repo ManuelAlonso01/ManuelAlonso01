@@ -3,7 +3,7 @@
 
 <img align="right" width=250px alt="This is fine" src="https://media1.tenor.com/m/lxqihLckfJcAAAAd/this-is-fine.gif" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-ManuelAlonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-alonso-67873b329/)](https://www.linkedin.com/in/manuel-alonso-67873b329/) [![Gmail Badge](https://img.shields.io/badge/-alonsomanueldev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alonsomanueldev@gmail.com)](mailto:asterp04@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ManuelAlonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-alonso-67873b329/)](https://www.linkedin.com/in/manuel-alonso-67873b329/) [![Gmail Badge](https://img.shields.io/badge/-alonsomanueldev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alonsomanueldev@gmail.com)](mailto:alonsomanueldev@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManuelAlonso2006" alt="ManuelAlonso2006" /> </p>
 
 Bienvenido a mi pequeño caos digital. Aquí intento que el código funcione... y a veces hasta lo logro.
