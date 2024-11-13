@@ -23,7 +23,7 @@ Bienvenido a mi pequeño caos digital. Aquí intento que el código funcione... 
   ```python
     class QuienSoy:
       usuario = 'Manu'
-      educacion_actual = "Universidad Nacional de Lanús"
+      educacion_actual = "Estudiante de Licenciatura en Sistemas, Universidad Nacional de Lanús"
       hobbies = [
                   'Programar',
                   'Ver películas',
