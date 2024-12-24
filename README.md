@@ -10,7 +10,6 @@ Bienvenido a mi pequeño caos digital. Aquí intento que el código funcione... 
 
  :computer: Tecnologias
 * Python
-* C
 * SQLite
 * HTML
 * CSS
@@ -18,7 +17,7 @@ Bienvenido a mi pequeño caos digital. Aquí intento que el código funcione... 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelALonso2006&layout=compact">
 
 ## 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 ## Presentacion
   ```python
     class QuienSoy:
