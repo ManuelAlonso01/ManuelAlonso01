@@ -10,6 +10,7 @@ Bienvenido a mi perfil de github, aca subo algunos de mis proyectos que me parec
 
  :computer: Tecnologias
 * Python
+* C
 * SQLite
 * Flask
 * HTML
@@ -21,6 +22,7 @@ Bienvenido a mi perfil de github, aca subo algunos de mis proyectos que me parec
 
 ## 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
 
 ## Presentacion
   ```python
