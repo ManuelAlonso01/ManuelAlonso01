@@ -26,9 +26,9 @@ Trabajo principalmente con Python, Linux, Bash y algo de C. Estoy aprendiendo Ja
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelAlonso2006&show_icons=true&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_radius=10" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelAlonso01&show_icons=true&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_radius=10" alt="Estadísticas GitHub" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAlonso2006&layout=compact&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAlonso01&layout=compact&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4" alt="Lenguajes más usados"/>
 
 </p>
 
