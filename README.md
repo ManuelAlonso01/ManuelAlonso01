@@ -3,9 +3,8 @@
 ### **💀 Sobre mi**
 Estudiante de Licenciatura en Sistemas en la UNLa.
 <br></br>
-Me interesa el desarrollo backend y la ciberseguridad, sobre todo orientada a redes. No me va el diseño ni el frontend, lo uso solo cuando es necesario.
-
-Trabajo principalmente con Python, Linux, Bash y algo de C. Estoy aprendiendo JavaScript para poder integrarlo con el backend. También tengo conocimientos en bases de datos como MySQL y SQLite.
+Me especializo en desarrollo backend y ciberseguridad con enfoque en redes. Evito el diseño y el frontend, utilizándolos únicamente cuando es estrictamente necesario.
+Trabajo principalmente con Python, Linux, Bash y, en menor medida, C. Actualmente estoy incorporando JavaScript para su integración con el backend. Poseo conocimientos en bases de datos, incluyendo MySQL y SQLite.
 
 ---
 
