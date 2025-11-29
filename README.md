@@ -24,6 +24,13 @@ Trabajo principalmente con Python, Linux, Bash y, en menor medida, C. Actualment
 
 ### 📊 Estadísticas de GitHub
 
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelAlonso01&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits"
+    alt="Gráfico de actividad de commits"
+  />
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManuelAlonso01&show_icons=true&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_radius=10" alt="Estadísticas GitHub" />
   <br/><br/>
