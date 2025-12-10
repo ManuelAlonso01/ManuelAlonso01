@@ -1,6 +1,6 @@
 <h1 align="center"> Manuel Alonso</h1>
 
-### **💀 Sobre mi**
+### **👾 Sobre mi**
 Estudiante de Licenciatura en Sistemas en la UNLa.
 <br></br>
 Me especializo en desarrollo backend y ciberseguridad con enfoque en redes. Evito el diseño y el frontend, utilizándolos únicamente cuando es estrictamente necesario.
