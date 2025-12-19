@@ -52,9 +52,6 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
     <img src="https://img.icons8.com/ios-filled/50/cba6f7/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alonsomanueldev@gmail.com" title="Gmail">
-    <img src="https://img.icons8.com/ios-filled/50/cba6f7/gmail.png" width="40" height="40" alt="Gmail"/>
-  </a>
 </p>
 
 
