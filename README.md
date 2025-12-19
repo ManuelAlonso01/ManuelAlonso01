@@ -1,7 +1,6 @@
 <h1 align="center"> Manuel Alonso</h1>
 
 ### **Sobre mi**
-<br></br>
 Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
 
 ---
