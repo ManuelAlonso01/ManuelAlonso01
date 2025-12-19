@@ -1,10 +1,8 @@
 <h1 align="center"> Manuel Alonso</h1>
 
-### **👾 Sobre mi**
-Estudiante de Licenciatura en Sistemas en la UNLa.
+### **Sobre mi**
 <br></br>
-Me especializo en desarrollo backend y ciberseguridad con enfoque en redes. Evito el diseño y el frontend, utilizándolos únicamente cuando es estrictamente necesario.
-Trabajo principalmente con Python, Linux, Bash y, en menor medida, C. Actualmente estoy incorporando JavaScript para su integración con el backend. Poseo conocimientos en bases de datos, incluyendo MySQL y SQLite.
+Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
 
 ---
 
