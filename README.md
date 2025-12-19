@@ -11,13 +11,13 @@ Trabajo principalmente con Python, Linux, Bash y, en menor medida, C. Actualment
 ### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,github,vscode,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,github,vscode,sqlite,html" />
 </p>
 
 ---
 ### 🧪 Tecnologías que estoy aprendiendo / usé poco
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mysql,css,html,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,git" />
 </p>
 
 ---
