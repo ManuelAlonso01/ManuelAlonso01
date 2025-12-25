@@ -8,13 +8,13 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
 ### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,github,vscode,sqlite,html" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,github,git,vscode,sqlite,html" />
 </p>
 
 ---
-### 🧪 Tecnologías que estoy aprendiendo / usé poco
+### 🧪 Tecnologías que estoy aprendiendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git" />
+  <img src="https://skillicons.dev/icons?i=django,postgresql" />
 </p>
 
 ---
