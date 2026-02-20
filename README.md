@@ -28,12 +28,6 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
   />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelAlonso01&show_icons=true&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_radius=10" alt="Estadísticas GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAlonso01&layout=compact&theme=tokyonight&locale=es&title_color=cba6f7&text_color=cdd6f4" alt="Lenguajes más usados"/>
-
-</p>
 
 ---
 
@@ -43,15 +37,12 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
   <a href="https://github.com/ManuelAlonso01" title="GitHub">
     <img src="https://img.icons8.com/ios-glyphs/50/cba6f7/github.png" width="40" height="40" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/manuel-alonso-dev/" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/cba6f7/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/manuel_2.00.6/" title="Instagram">
     <img src="https://img.icons8.com/ios-filled/50/cba6f7/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
