@@ -21,12 +21,9 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelAlonso01&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits"
-    alt="Gráfico de actividad de commits"
-  />
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=ManuelAlonso01&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ManuelAlonso01)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ManuelAlonso01&theme=material-palenight)](https://github.com/ManuelAlonso01)
+
 
 
 ---
