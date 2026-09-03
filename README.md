@@ -7,13 +7,13 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
 
 ### 🛠️ Algunas Tecnologías que domino
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,linux,bash,github,git,vscode,sqlite,html" />
 </p>
 
 ---
 ### 🧪 Tecnologías que estoy aprendiendo
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=django,postgresql" />
 </p>
 
@@ -30,15 +30,12 @@ Backend developer en formación. Python · Linux · Bash · MySQL · SQLite.
 
 ### 🌐 Contacto y redes
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ManuelAlonso01" title="GitHub">
     <img src="https://img.icons8.com/ios-glyphs/50/cba6f7/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/manuel-alonso-dev/" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/cba6f7/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/manuel_2.00.6/" title="Instagram">
-    <img src="https://img.icons8.com/ios-filled/50/cba6f7/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
 
